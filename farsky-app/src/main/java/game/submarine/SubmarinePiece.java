@@ -1,0 +1,13 @@
+package game.submarine;
+
+public enum SubmarinePiece {
+   HULL,
+   STABILIZER_RIGHT_LOWER,
+   STABILIZER_LEFT_LOWER,
+   STABILIZER_RIGHT_UPPER,
+   STABILIZER_LEFT_UPPER,
+   PROPELLER_RIGHT,
+   PROPELLER_LEFT,
+   PORTHOLE,
+   CANOPY;
+}

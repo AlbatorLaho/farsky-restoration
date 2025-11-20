@@ -1,0 +1,18 @@
+package game.world.structure;
+
+public enum GamePlayType {
+   NONE,
+   CHEST,
+   RESERVED_K,
+   RESERVED_L,
+   RESERVED_M,
+   CORAL_OVERLAY,
+   RESERVED_N,
+   GOLD_DEPOSIT,
+   CRYSTAL_DEPOSIT,
+   SHIPWRECK,
+   GRASS_OVERLAY,
+   SUBMARINE_PART,
+   SILVER_DEPOSIT,
+   TREASURE_CHEST;
+}
